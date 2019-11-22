@@ -1,0 +1,63 @@
+.iframe{
+  margin-left: 50px;
+}
+
+
+
+.maps{
+  display: flex;
+  flex-display: row;
+  margin-left: 400px;
+  padding-bottom: 100px;
+  
+}
+
+/* .w3-container{
+  height: 280px;
+  width 280px;
+} */
+
+
+.userInput {
+  position: relative;
+}
+
+.displayUserInput {
+  bakground: white;
+}
+
+
+
+
+/* CSS files add styling rules to your content */
+/* a:link, a:visited {
+  background-color: grey;
+  color: white;
+  padding: 14px 25px;
+  text-align: center; */
+/*   display: inline-block; */
+/*   font-family: 'Old Standard TT', serif; 
+  
+}
+
+
+body {
+  font-family: "Benton Sans", "Helvetica Neue", helvetica, arial, sans-serif;
+  margin: 2em;
+  
+}
+
+h1{
+  font-style: italic;
+  color: #373fff;
+}
+
+.frontPageImage{
+   max-width:100%;
+   height:auto;
+}  */
+
+
+
+
+
